@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\bin\Debug\garenalogin.exe.config
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\bin\Debug\garenalogin.exe
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\bin\Debug\garenalogin.pdb
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\bin\Debug\garenalogin.xml
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.Form1.resources
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.Resources.resources
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.exe
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.xml
+C:\Users\USER\Documents\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.pdb
+C:\portofolio\vb.net\tampilLoginGarena\garenalogin\bin\Debug\garenalogin.exe.config
+C:\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.exe
+C:\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.xml
+C:\portofolio\vb.net\tampilLoginGarena\garenalogin\obj\Debug\garenalogin.pdb
